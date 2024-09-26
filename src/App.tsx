@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>Learning Azure</h1>
+      <h1>Learning Azure Basics</h1>
     </>
   );
 }
